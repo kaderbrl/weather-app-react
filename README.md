@@ -4,8 +4,6 @@
 
 <div align="center">
     <img  src="./src/assets/screens/weather.gif" alt="Weather App with React" title="Weather App" />
-    <br /><br />
-    <img src="./src/assets/screens/weather-responsive.png" alt="Weather App with React" title="Weather App" />
 </div>
 
 ## 💎 Features
@@ -19,6 +17,10 @@
 
 ## 📭 API
 [`OpenWeather`](https://openweathermap.org/)
+
+## 💻 Live Demo
+
+Check the live demo here 👉 [Demo](https://weather-app-kaderbrl.vercel.app/) 
 
 ## 📋 Instructions
 
@@ -40,6 +42,11 @@ Run it.
 $ npm start # or yarn start
 ```
 
+## 📱Responsive Design
+<div align="center">
+    <img src="./src/assets/screens/weather-responsive.png" alt="Weather App with React" title="Weather App" />
+</div>
+
 ## Languages and Tools
 
 <div align="left">
@@ -47,5 +54,5 @@ $ npm start # or yarn start
   <img width="5" />
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/html5/html5-original.svg" height="30" alt="html5 logo"  />
   <img width="5" />
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/tailwindcss/tailwindcss-plain.svg" height="30" alt="tailwindcss logo"  />
+  <img src="https://www.vectorlogo.zone/logos/tailwindcss/tailwindcss-icon.svg" height="30" alt="tailwindcss logo"  />
 </div>
